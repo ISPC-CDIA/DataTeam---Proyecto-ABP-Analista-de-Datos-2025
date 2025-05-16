@@ -12,7 +12,7 @@ DataTeam es un equipo de estudiantes de la Tecnicatura Superior en Ciencia de Da
 - **Institución:**
     - Instituto Superior Politécnico Córdoba
 
-### Grupo 10 - Integrantes:
+### Grupo 8 - Integrantes:
 - **MAJZUM, MAIA**
     - _Usuario GitHub_: [maiamajzum](https://github.com/maiamajzum)
     - _Mail_: maiamjzum@gmail.com
