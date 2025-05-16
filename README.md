@@ -4,7 +4,7 @@ DataTeam es un equipo de estudiantes de la Tecnicatura Superior en Ciencia de Da
 # Proyecto Integrador ABP
 - **Asignaturas:**
     - Procesamiento de datos (_Docente/Tutor: Marcos ugarte_)
-    - Estádistica y exploración de datos 1 (_Docente/Tutor: Nahuel Pratta_    
+    - Estádistica y exploración de datos 1 (_Docente/Tutor: Nahuel Pratta_)    
 - **Módulo:**
     - Analista de datos
 - **Carrera - Cohorte:**
