@@ -10,7 +10,7 @@ DataTeam es un equipo de estudiantes de la Tecnicatura Superior en Ciencia de Da
 - **Carrera - Cohorte:**
     - Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial - Cohorte 2024
 - **Institución:**
-    - Instituto Superior Politécnico Córdoba
+    - Instituto Superior Politécnico de Córdoba
 
 ### Grupo 8 - Integrantes:
 - **MAJZUM, MAIA**
