@@ -22,8 +22,13 @@ DataTeam es un equipo de estudiantes de la Tecnicatura Superior en Ciencia de Da
     - _Usuario GitHub_: [Valentina Pich](https://github.com/Vaal-D4t4Sc)
     - _Mail_: valentina.m.pich@gmail.com
     - _DNI_: 35524680
----
-- **OVIEDO, FRANCISCO**}
--  _Usuario GitHub_: Franor9 https://github.com/Franor9
+
+- **OVIEDO, FRANCISCO**
+    -  _Usuario GitHub_: Franor9 https://github.com/Franor9
     - _Mail_: foviedor96@gmail.com
     - _DNI_: 39326636
+ 
+ - **PALOMEQUE, JONATHAN MANUEL**
+    - _Usuario GitHub_: [Jonathan Palomeque]([https://github.com/Vaal-D4t4Sc](https://github.com/manuelpalomeque))
+    - _Mail_: pjonathanmanuel@hotmail.com
+    - _DNI_: 36144579
