@@ -32,3 +32,8 @@ DataTeam es un equipo de estudiantes de la Tecnicatura Superior en Ciencia de Da
     - _Usuario GitHub_: [Jonathan Palomeque]([https://github.com/Vaal-D4t4Sc](https://github.com/manuelpalomeque))
     - _Mail_: pjonathanmanuel@hotmail.com
     - _DNI_: 36144579
+
+    **LEDESMA, LUCAS DYLAN**
+    -  _Usuario GitHub_: [Lucas Dylan Ledesma](https://github.com/Lukit4s)
+    - _Mail_: lucas.dylan.ledesma@gmail.com
+    - _DNI_: 44828160
