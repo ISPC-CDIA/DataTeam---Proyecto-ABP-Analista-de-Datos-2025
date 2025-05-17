@@ -23,3 +23,7 @@ DataTeam es un equipo de estudiantes de la Tecnicatura Superior en Ciencia de Da
     - _Mail_: valentina.m.pich@gmail.com
     - _DNI_: 35524680
 ---
+- **OVIEDO, FRANCISCO**}
+-  _Usuario GitHub_: Franor9 https://github.com/Franor9
+    - _Mail_: foviedor96@gmail.com
+    - _DNI_: 39326636
