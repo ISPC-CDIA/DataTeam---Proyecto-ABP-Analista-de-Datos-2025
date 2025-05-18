@@ -18,17 +18,17 @@ DataTeam es un equipo de estudiantes de la Tecnicatura Superior en Ciencia de Da
     - _Usuario GitHub_: [JG-UNC](https://github.com/JG-UNC)
     - _Mail_: jonathan.guillen@mi.unc.edu.ar
     - _DNI_: 34440292
+ 
+- **LEDESMA, LUCAS DYLAN**
+    -  _Usuario GitHub_: [Lucas Dylan Ledesma](https://github.com/Lukit4s)
+    - _Mail_: lucas.dylan.ledesma@gmail.com
+    - _DNI_: 44828160
 
 - **MAJZUM, MAIA**
     - _Usuario GitHub_: [maiamajzum](https://github.com/maiamajzum)
     - _Mail_: maiamjzum@gmail.com
     - _DNI_: 34889057
-
-- **PICH, VALENTINA**
-    - _Usuario GitHub_: [Valentina Pich](https://github.com/Vaal-D4t4Sc)
-    - _Mail_: valentina.m.pich@gmail.com
-    - _DNI_: 35524680
-
+ 
 - **OVIEDO, FRANCISCO**
     -  _Usuario GitHub_: [Franor9](https://github.com/Franor9)
     - _Mail_: foviedor96@gmail.com
@@ -39,12 +39,13 @@ DataTeam es un equipo de estudiantes de la Tecnicatura Superior en Ciencia de Da
     - _Mail_: pjonathanmanuel@hotmail.com
     - _DNI_: 36144579
 
-- **LEDESMA, LUCAS DYLAN**
-    -  _Usuario GitHub_: [Lucas Dylan Ledesma](https://github.com/Lukit4s)
-    - _Mail_: lucas.dylan.ledesma@gmail.com
-    - _DNI_: 44828160
+- **PICH, VALENTINA**
+    - _Usuario GitHub_: [Valentina Pich](https://github.com/Vaal-D4t4Sc)
+    - _Mail_: valentina.m.pich@gmail.com
+    - _DNI_: 35524680
 
 - **RAMÍREZ, EGLIMAR**
     -  _Usuario GitHub_: [Eglimar Ramírez](https://github.com/EglimarRamirez)
     - _Mail_: eglimarmramirez@gmail.com
     - _DNI_: 96062692
+ 
