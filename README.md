@@ -13,6 +13,12 @@ DataTeam es un equipo de estudiantes de la Tecnicatura Superior en Ciencia de Da
     - Instituto Superior Politécnico de Córdoba
 
 ### Grupo 8 - Integrantes:
+
+- **GUILLÉN, JONATHAN**
+    - _Usuario GitHub_: [JG-UNC](https://github.com/JG-UNC)
+    - _Mail_: jonathan.guillen@mi.unc.edu.ar
+    - _DNI_: 34440292
+
 - **MAJZUM, MAIA**
     - _Usuario GitHub_: [maiamajzum](https://github.com/maiamajzum)
     - _Mail_: maiamjzum@gmail.com
